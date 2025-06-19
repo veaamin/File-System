@@ -1,7 +1,4 @@
-## File System
-
 Functions:
-
 • Create, delete, rename, and move files and folders.
 • Display a navigable tree-like structure of directories
 • Open and edit text files.
