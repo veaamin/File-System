@@ -1,11 +1,12 @@
 <h1 align="left">File System</h1>
-A Java-based File System GUI application that simulates basic file operations.
-The system demonstrates File I/O, Threading, and Graphical User Interface (GUI) development using Swing and Event Listeners.
+
+A Java-based File System GUI application that simulates basic file operations. The system demonstrates File I/O, Threading, and Graphical User Interface (GUI) development using Swing and Event Listeners.
+
 
 ![Image of website](https://github.com/veaamin/File-System/blob/a18989a10aeb4a12718bcb4ec2b089bc84d57955/File/preview.png)
 ![Image of website](https://github.com/veaamin/File-System/blob/a18989a10aeb4a12718bcb4ec2b089bc84d57955/File/preview1.png)
 
-##Functionality
+## Functionality
 <ul align="left">
   <li>Create, delete, rename, and move files and folders</li>
   <li>Display a navigable, tree-like directory structure</li>
